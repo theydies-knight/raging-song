@@ -17,7 +17,7 @@ configuration:
     cdnCaching: true
     typography:
       header: Grenze
-      body: Source Sans Pro
+      body: Literata
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -110,7 +110,7 @@ plugins:
       theme: its-theme
       mode: both
       variation: ttrpg-dnd
-      themeFonts: false
+      themeFonts: wotc
   - source: "@quartz-community/explicit-publish"
     enabled: false
   - source: "@quartz-community/unlisted-pages"

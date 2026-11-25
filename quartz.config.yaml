@@ -16,7 +16,7 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
+      header: Grenze
       body: Source Sans Pro
       code: IBM Plex Mono
     colors:
@@ -215,7 +215,7 @@ plugins:
       position: afterBody
       priority: 10
   - source: "@quartz-community/footer"
-    enabled: true
+    enabled: false
     options:
       links:
         GitHub: https://github.com/jackyzha0/quartz
@@ -224,7 +224,7 @@ plugins:
       position: footer
       priority: 50
   - source: "@quartz-community/recent-notes"
-    enabled: false
+    enabled: true
   - source: "@quartz-community/spacer"
     enabled: true
     options: {}

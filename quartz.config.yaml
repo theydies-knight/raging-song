@@ -107,9 +107,8 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: its-theme
+      theme: Catppuccin
       mode: both
-      variation: ttrpg-wotc
       themeFonts: false
   - source: "@quartz-community/explicit-publish"
     enabled: false

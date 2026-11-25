@@ -109,8 +109,8 @@ plugins:
     options:
       theme: its-theme
       mode: both
-      variation: ttrpg-dnd
-      themeFonts: wotc
+      variation: wotc
+      themeFonts: false
   - source: "@quartz-community/explicit-publish"
     enabled: false
   - source: "@quartz-community/unlisted-pages"

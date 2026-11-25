@@ -1,3 +1,11 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// quartz/styles/custom.scss
+.page > #quartz-body {
+  .center {
+    max-width: 65ch; // Or a fixed pixel value like 680px
+    margin: 0 auto;
+  }
+}

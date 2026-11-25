@@ -1,5 +1,5 @@
 ---
-type: NPC
+kind: NPC
 aliases:
   - Nezznar
   - The Spider

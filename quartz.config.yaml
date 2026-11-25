@@ -5,7 +5,7 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: null
   locale: en-US
   baseUrl: theydies-knight.github.io/raging-song
   ignorePatterns:
@@ -47,9 +47,9 @@ configuration:
     enableRSS: true
 plugins:
   - source: "@quartz-community/created-modified-date"
-    enabled: false
+    enabled: true
     options:
-      defaultDateType: modified
+      defaultDateType: published
       priority:
         - frontmatter
         - git
@@ -148,6 +148,9 @@ plugins:
     enabled: true
   - source: "@quartz-community/explorer"
     enabled: true
+    options:
+      folderDefaultState: "open" # Options: "collapsed" | "open"
+      useSavedState: true             # Remembers which folders a player expanded
     layout:
       position: left
       priority: 50
@@ -246,7 +249,6 @@ plugins:
         - description
         - tags
         - aliases
-        - date
       excludedProperties: []
       hidePropertiesView: false
     order: 5

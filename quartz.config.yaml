@@ -109,6 +109,7 @@ plugins:
     options:
       theme: Catppuccin
       mode: both
+      variation: frappe
       themeFonts: false
   - source: "@quartz-community/explicit-publish"
     enabled: false

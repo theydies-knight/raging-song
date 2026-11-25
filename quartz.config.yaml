@@ -109,7 +109,7 @@ plugins:
     options:
       theme: its-theme
       mode: both
-      variation: wotc
+      variation: ttrpg-wotc
       themeFonts: false
   - source: "@quartz-community/explicit-publish"
     enabled: false

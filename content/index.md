@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Adventures of the Raging Song 
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is where it all begins.

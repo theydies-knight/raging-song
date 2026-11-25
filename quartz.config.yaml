@@ -110,6 +110,7 @@ plugins:
       theme: its-theme
       mode: both
       variation: ttrpg-dnd
+      themeFonts: false
   - source: "@quartz-community/explicit-publish"
     enabled: false
   - source: "@quartz-community/unlisted-pages"

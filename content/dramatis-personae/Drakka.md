@@ -1,6 +1,6 @@
 ---
 kind: pc
-summary: A companion who crossed into the Feywild and aged before vanishing entirely.
+summary: A companion who crossed into the Feywild and "grew-up" before departing, leaving the party with blessings from Titania.
 player: Cory and Mimi
 tags:
   - Party

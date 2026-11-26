@@ -1,6 +1,6 @@
 ---
 kind: pc
-summary: Pragmatic sea druid trying to steer the party toward better sense.
+summary: Pragmatic sea-druid nature protector who can summon ocean storms and crash waves of lightning onto his enemies.
 player: Andreas
 tags:
   - Party

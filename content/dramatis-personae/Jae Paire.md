@@ -6,7 +6,7 @@ species: Human
 class: Paladin
 affiliations:
   - "[[The Raging Song]]"
-summary: A humble human paladin devoted to Ilmater. Well intentioned and diplomatic, sometimes to a fault.
+summary: A cheerful, French-accented paladin who uses his holy club and little spirit buddies to protect his friends and heal their boo-boos.
 aliases:
   - Jae
 tags:

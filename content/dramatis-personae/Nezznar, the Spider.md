@@ -11,6 +11,7 @@ affiliations:
   - "[[The Zhentarim]]"
 status:
   - Slain
+summary: An evil dark elf wizard who tried to steal an ancient magic forge hidden deep inside Wave Echo Cave.
 ---
 - **Role & Network:** Known as "The Spider," this drow mage seized Wave Echo Cave to claim the Forge of Souls. He orchestrated regional operations through front factions, including Glasstaff’s Redbrands in Phandalin and King Grol’s Cragmaw raiders.
 - **True Objective:** Secretly financed by the Zhentarim, Nezznar sought the Forge's ancient magic to reconstruct fragments of a shattered Netherese obelisk buried beneath Phandalin.

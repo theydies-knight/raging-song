@@ -17,6 +17,7 @@ views:
       - - "#Party"
       - - "#Ally"
       - - "#Adversary"
+      - - "#Neutral"
     order:
       - file.name
       - status

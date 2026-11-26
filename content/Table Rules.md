@@ -37,11 +37,11 @@ During the debrief after each session, the players will have an opportunity to a
 
 # Rest Casting:
 
-- Before taking a Long Rest, you may "Ready an Action" to cast long term spells when you start your day. (*Mage Armor, Gift of Alacrity, Hero's Feast, etc.*) You must have the appropriate spell slot available before resting. Rest Casting will allow you to benefit from these spells while benefitting from fully restored spell slots.
+- Before taking a Long Rest, you may "Ready an Action" to cast long term spells when you start your day. (*Mage Armor, Gift of Alacrity, Hero's Feast, etc.*) You must have the appropriate spell slot available *before* resting. Rest Casting will allow you to benefit from these spells while benefitting from fully restored spell slots.
 
 # Retreat
 
-In a dire situation when the party decides that retreat is the best option, the party may decide to take a Full Retreat. If a retreat is not possible for an encounter, the DM must specify before initiative is rolled.
+In a dire situation when the party decides that retreat is the best option, the party may decide to take a **Full Retreat**. If a retreat is not possible for an encounter, the DM must specify *before* initiative is rolled.
 #### In order to execute a retreat:
 
 - A retreat can only be called during the turn of a conscious character who is under control of their faculties.

@@ -1,0 +1,13 @@
+filters:
+  and:
+    - file.folder == "adventure-log"
+    - file.name != "index"
+views:
+  - type: list
+    name: View
+    order:
+      - file.name
+      - date
+    sort:
+      - property: date
+        direction: DESC

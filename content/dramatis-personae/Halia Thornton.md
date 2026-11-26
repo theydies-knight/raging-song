@@ -1,0 +1,6 @@
+---
+kind:
+  - NPC
+aliases:
+  - Halia
+---

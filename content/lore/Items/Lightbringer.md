@@ -1,0 +1,1 @@
+A legendary mace given to [[Lathander]]'s devotees. Crafted in [[Wave Echo Cave]] with the [[Forge of Souls]]. In [[The Raging Song]]'s possession.

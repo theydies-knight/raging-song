@@ -3,6 +3,9 @@ aliases:
   - Nundro
   - Gundren
   - Tharden
+  - Nundro Rockseeker
+  - Gundren Rockseeker
+  - Tharden Rockseeker
 tags:
   - Ally
 kind:

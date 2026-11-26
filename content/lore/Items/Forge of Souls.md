@@ -1,0 +1,1 @@
+Dwarven artifact from Wave Echo Cave, responsible for infusing the cavern's powerful arcane energy into legendary magic items. [[The Raging Song]] retrieved this brazier after defeating a spectator. It is being kept in [[Alinar Dormitor|Alinar]]'s bag of holding.

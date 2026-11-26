@@ -2,6 +2,11 @@ filters:
   and:
     - file.folder == "dramatis-personae"
     - file.name != "index"
+properties:
+  file.name:
+    displayName: Name
+  note.status:
+    displayName: Status
 views:
   - type: table
     name: Table Minus Aliases

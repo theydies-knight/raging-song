@@ -3,13 +3,13 @@ date: 2026-11-13
 ---
 ## Summary
 
-Recovering from their battle with the spectator, the party stood before the glowing green beacon of the [[Forge of Souls]] inside [[Wave Echo Cave]]. Realizing that taking a full night's rest might allow [[the Spider]] to ambush them, [[Aeolus]] and [[Jae Paire]] deduced that a brief respite was the wiser tactical choice. Examining the arcane brazier, the party learned that while its magic only functioned when attached to its specific podium, they could safely stow the artifact away to keep it out of enemy hands. Before packing the Forge, the magical breastplate, and the mace *[[Lightbringer]]* into [[Alinar]]'s *Bag of Holding*, the adventurers bathed their mundane daggers and Alinar's severed spider-leg club in the green flames, imbuing them with temporary magical potency.
+Recovering from their battle with the spectator, the party stood before the glowing green beacon of the [[Forge of Souls]] inside [[Wave Echo Cave]]. Realizing that taking a full night's rest might allow [[Nezznar the Spider|The Spider]] to ambush them, [[Aeolus Stormcaller|Aeolus]] and [[Jae Paire]] deduced that a brief respite was the wiser tactical choice. Examining the arcane brazier, the party learned that while its magic only functioned when attached to its specific podium, they could safely stow the artifact away to keep it out of enemy hands. Before packing the Forge, the magical breastplate, and the mace *[[Lightbringer]]* into [[Alinar Dormitor|Alinar]]'s *Bag of Holding*, the adventurers bathed their mundane daggers and Alinar's severed spider-leg club in the green flames, imbuing them with temporary magical potency.
 
 Drawn by a lingering, supernatural sense of dread, Aeolus convinced the group to investigate a southern chamber before hunting down the Spider. Jae Paire forced the brittle door open, came face-to-face with a shrieking undead apparition, and immediately slammed the door shut in its face. Despite Jae Paire's vehement arguments that they should simply walk away, [[Melody Sparkleheart|Melody]] opened the door to fire a crossbow bolt, kicking off a chaotic skirmish against the wraith of Mormesk. Jae Paire repeatedly attempted to use *Sear Undead*, failing three times in a row against the stubborn spirit and prompting him to try abandoning the room mid-fight while Alinar mocked him for being a cleric who was afraid of ghosts. Ultimately, Alinar blasted the wraith into oblivion with *Eldritch Blast*, lifting the oppressive aura from the cave and allowing the party to loot a scorched chest and Mormesk's old journals.
 
 Pressing northward, the party followed Jae Paire's "always go right" philosophy and discovered the underground lake whose rhythmic, booming waves gave Wave Echo Cave its name. Overcome with excitement at the sight of water, Aeolus the sea druid immediately dove in without checking for danger—and swam straight into a giant freshwater squid. Desperate to avoid wasting resources on local wildlife, Jae Paire tossed five rations into the water to chum it while Aeolus cast *Speak with Animals* to apologize for the intrusion. The squid, entirely uninterested in diplomacy, bit Aeolus and dragged a heavily armored Jae Paire into the water with its tentacles. Abandoning peace talks, Aeolus turned the surrounding water into a caustic whirlpool with *Wrath of the Sea*, Melody forced the beast to release the cleric with a *Command* spell, and Alinar fried the cephalopod with *Witch Bolt* and *Eldritch Blast*.
 
-Continuing deeper into the caverns, the party spotted two bugbears guarding the passage where Gundren's brother, Nundro, was likely being held. Pressured by his companions to try diplomacy one more time, Alinar marched up to the guards and unleashed all of his pent-up rage regarding Jae Paire's antics, threatening to murder the bugbears and their entire families if they didn't hand over the dwarf immediately. The terrifying tirade worked flawlessly, sending the bugbears fleeing without a single blow struck. Moments later, the party finally cornered the drow mastermind known as [[the Spider. After a brief, bizarre parley where Jae Paire accused the villain of torturing children and mocked his lack of eight limbs, Aeolus abruptly ended the conversation by casting *Silence* directly over the Spider, plunging the cavern into a quiet, high-stakes battle.
+Continuing deeper into the caverns, the party spotted two bugbears guarding the passage where Gundren's brother, Nundro, was likely being held. Pressured by his companions to try diplomacy one more time, Alinar marched up to the guards and unleashed all of his pent-up rage regarding Jae Paire's antics, threatening to murder the bugbears and their entire families if they didn't hand over the dwarf immediately. The terrifying tirade worked flawlessly, sending the bugbears fleeing without a single blow struck. Moments later, the party finally cornered the drow mastermind known as [[Nezznar the Spider|The Spider]]. After a brief, bizarre parley where Jae Paire accused the villain of torturing children and mocked his lack of eight limbs, Aeolus abruptly ended the conversation by casting *Silence* directly over the Spider, plunging the cavern into a quiet, high-stakes battle.
 
 ## Threads
 
@@ -33,28 +33,31 @@ Above the table, the group noted they will skip the November 15th session due to
 
 > [!note]
 > "And I close the door. Hey guys, let's just fuck off. We don't have to deal with this shit."
-> — Jae Paire
+> -- Jae Paire
+> 
 > *Upon forcing open a heavy door and seeing a shrieking wraith floating inside, Jae Paire immediately slammed the door shut and tried to convince the party to just walk away, earning the group a Fortune Point from the GM for sheer comedic timing.*
 
 > [!note]
 > **Aeolus dives headfirst into an uninspected underground lake and immediately aggros a giant freshwater squid.**
+> 
 > *Overjoyed at finally finding water for his Circle of the Sea druid, Andreas declared Aeolus was jumping right in without rolling any perception or nature checks, resulting in an immediate ambush and failed diplomatic negotiations with a very angry cephalopod.*
 
 > [!note]
 > "I'm gonna make this really easy for you. That guy has been a pain in my ass the whole fucking day. All right. I am this close to snapping and I can't hit him. So I'm gonna fucking hit you and you're gonna die. And I'm gonna kill you and your family. Give me the fucking dwarf. And if you do that, I might let you breathe. You have three seconds."
-> — Alinar
+> -- Alinar
+> 
 > *Forced into attempting "diplomacy" with two bugbear guards, Alinar channeled all his frustration with Jae Paire into a Natural 20 Intimidation check, terrifying the guards into surrendering on the spot.*
 
 > [!note]
 > "They call you a spider. I only count four limbs."
-> — Jae Paire
+> -- Jae Paire
 > *Upon finally meeting the campaign's shadowy drow antagonist, Jae Paire immediately roasted him using a terrible Sean Connery accent before accusing him of having "Epstein vibes."*
 
 ## Scenes
 
 ### Licking Wounds at the Forge
 
-#### *The party rests by the Forge of Souls, debates their next move, and dips their mundane weapons into the green arcane fire.*
+***The party rests by the Forge of Souls, debates their next move, and dips their mundane weapons into the green arcane fire.***
 
 - Standing in the chamber of the Forge of Souls after defeating the spectator, the party debated taking a long or short rest.
 - Aeolus and Jae Paire both rolled a dirty 20 on Insight checks (with Aeolus using *Guidance*), deducing that a long rest would allow the Spider to get the drop on them.
@@ -65,7 +68,7 @@ Above the table, the group noted they will skip the November 15th session due to
 
 ### Slamming the Door on Mormesk
 
-#### *Investigating a dreadful presence to the south, the party battles the wraith of the cave's last wizard while Jae Paire tries to abandon the fight.*
+***Investigating a dreadful presence to the south, the party battles the wraith of the cave's last wizard while Jae Paire tries to abandon the fight.***
 
 - Aeolus felt a lingering sense of dread coming from a southern door, and the party decided to clear it out.
 - Jae Paire pressed his ear to the cold, brittle door, rolling an 8 on Perception and learning only that it was indeed a door.
@@ -90,7 +93,7 @@ Above the table, the group noted they will skip the November 15th session due to
 
 ### The Freshwater Squid Incident
 
-#### *Aeolus dives headfirst into an underground lake and triggers a frantic battle with a giant freshwater squid.*
+***Aeolus dives headfirst into an underground lake and triggers a frantic battle with a giant freshwater squid.***
 
 - Heading north, the party reached a fork and decided to follow Jae Paire's philosophy of "always go right."
 - They entered a cavern featuring a surging underground lake whose waves slamming against the rock created the rhythmic booming heard throughout Wave Echo Cave.
@@ -110,7 +113,7 @@ Above the table, the group noted they will skip the November 15th session due to
 
 ### Intimidating Bugbears & Silencing the Spider
 
-#### *Alinar terrifies two bugbear guards into surrendering before the party corners the Spider and opens combat with a Silence spell.*
+***Alinar terrifies two bugbear guards into surrendering before the party corners the Spider and opens combat with a Silence spell.***
 
 - Moving north along the stream, Aeolus spotted bugbear guards ahead and used *Message* to inform the party they had likely found where Nundro was being held prisoner.
 - Jae Paire and Aeolus convinced a reluctant Alinar to try negotiating rather than launching a surprise attack, with Aeolus casting *Guidance* and providing the Help action.

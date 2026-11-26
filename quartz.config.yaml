@@ -16,30 +16,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Grenze
+      header: Grenze Gotisch
       body: Literata
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#3A689288"
+        light: "#FAF7F0"
+        lightgray: "#E8DFD2"
+        gray: "#6B5A4B"
+        darkgray: "#59483F"
+        dark: "#2B231F"
+        secondary: "#7D2938"
+        tertiary: "#75500A"
+        highlight: rgba(125, 41, 56, 0.12)
+        textHighlight: "#D5A44588"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#8F421F88"
+        light: "#1B1918"
+        lightgray: "#302A28"
+        gray: "#A99A89"
+        darkgray: "#D3C5B6"
+        dark: "#F4EBDD"
+        secondary: "#E58B81"
+        tertiary: "#E2BE72"
+        highlight: rgba(226, 190, 114, 0.14)
+        textHighlight: "#C7775688"
   links:
     markdownLinkResolution: shortest
   contentIndex:

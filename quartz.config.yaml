@@ -105,11 +105,10 @@ plugins:
     enabled: false
     order: 92
   - source: "@quartz-themes/core"
-    enabled: false
+    enabled: true
     options:
-      theme: Catppuccin
+      theme: Minimal
       mode: both
-      variation: frappe
       themeFonts: false
   - source: "@quartz-community/explicit-publish"
     enabled: false

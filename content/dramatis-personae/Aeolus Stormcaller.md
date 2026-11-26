@@ -1,11 +1,18 @@
 ---
 kind: pc
-summary: Aeolus was a party member who dealt with the mysterious goblins.
+description: Aeolus was a party member who dealt with the mysterious goblins.
 player: Andreas
 tags:
   - Party
 aliases:
   - Aeolus
+class:
+  - Druid
+affiliations:
+  - Party
+  - "[[The Emerald Enclave]]"
+status:
+  - Living
 ---
 
 # Aeolus

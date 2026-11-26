@@ -9,4 +9,7 @@ affiliations:
   - "[[Zhentarim]]"
   - "[[Forge of Souls]]"
   - "[[Wave Echo Cave]]"
+status:
+  - Deceased
+  - Slain
 ---

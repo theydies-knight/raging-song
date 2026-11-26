@@ -1,15 +1,19 @@
 ---
 kind: pc
 player: Rae
-race:
+species: Halfling
 class:
+  - Bard
+  - College of Glamour
 affiliation:
   - Party
-summary: Melody Sparkleheart is a talented musician who uses psychic whispers and illusions to support the party.
+description: Melody Sparkleheart is a talented musician who uses psychic whispers and illusions to support the party.
 aliases:
   - Melody
 tags:
   - Party
+status:
+  - Living
 ---
 
 # Melody Sparkleheart

@@ -1,11 +1,14 @@
 ---
 kind: pc
-summary: Alinar summons a spiritual weapon using his Ioun Stone and deals damage with Eldritch Blasts.
+description: Alinar summons a spiritual weapon using his Ioun Stone and deals damage with Eldritch Blasts.
 player: Haig
 aliases:
   - Alinar
 tags:
   - Party
+class:
+  - Warlock
+status: Living
 ---
 
 # Alinar

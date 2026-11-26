@@ -1,5 +1,5 @@
 ---
-title: Adventures of the Raging Song 
+title: Adventures of the Raging Song
 ---
 The Story So Far...
 

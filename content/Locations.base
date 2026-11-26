@@ -6,3 +6,4 @@ views:
     name: View
     order:
       - file.name
+      - file.mtime

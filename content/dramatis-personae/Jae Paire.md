@@ -8,6 +8,8 @@ affiliation:
 summary: Jae Paire is a versatile party member who can adopt a suave persona for intimidation and utilizes radiant spirit guardians to support and defend the group.
 aliases:
   - Jae
+tags:
+  - Party
 ---
 
 # Jae Paire

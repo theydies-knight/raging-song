@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.folder == "dramatis-personae"
+    - file.name != "index"
+views:
+  - type: table
+    name: View
+    order:
+      - file.name
+      - kind
+      - aliases
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC

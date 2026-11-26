@@ -4,6 +4,8 @@ summary: Alinar summons a spiritual weapon using his Ioun Stone and deals damage
 player: Haig
 aliases:
   - Alinar
+tags:
+  - Party
 ---
 
 # Alinar

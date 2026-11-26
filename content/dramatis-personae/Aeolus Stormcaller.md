@@ -2,6 +2,10 @@
 kind: pc
 summary: Aeolus was a party member who dealt with the mysterious goblins.
 player: Andreas
+tags:
+  - Party
+aliases:
+  - Aeolus
 ---
 
 # Aeolus

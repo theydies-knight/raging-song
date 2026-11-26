@@ -160,7 +160,7 @@ plugins:
       position: right
       priority: 10
   - source: "@quartz-community/search"
-    enabled: true
+    enabled: right
     layout:
       position: left
       priority: 20
@@ -251,9 +251,10 @@ plugins:
         - aliases
       excludedProperties: []
       hidePropertiesView: false
+      collapsed: true
     order: 5
     layout:
-      position: right
+      position: beforeBody
       priority: 15
       display: all
   - source: github:Requiae/quartz-leaflet-bases-plugin

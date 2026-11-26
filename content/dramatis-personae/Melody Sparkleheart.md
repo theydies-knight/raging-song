@@ -8,6 +8,8 @@ affiliation:
 summary: Melody Sparkleheart is a talented musician who uses psychic whispers and illusions to support the party.
 aliases:
   - Melody
+tags:
+  - Party
 ---
 
 # Melody Sparkleheart

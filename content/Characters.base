@@ -4,6 +4,20 @@ filters:
     - file.name != "index"
 views:
   - type: table
+    name: Table Minus Aliases
+    groupBy:
+      property: tags
+      direction: ASC
+    groupOrder:
+      - - "#Party"
+      - - "#Ally"
+      - - "#Adversary"
+    order:
+      - file.name
+      - status
+      - tags
+      - summary
+  - type: table
     name: View
     order:
       - file.name

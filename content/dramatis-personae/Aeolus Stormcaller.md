@@ -1,6 +1,6 @@
 ---
 kind: pc
-description: Aeolus was a party member who dealt with the mysterious goblins.
+summary: Pragmatic sea druid trying to steer the party toward better sense.
 player: Andreas
 tags:
   - Party

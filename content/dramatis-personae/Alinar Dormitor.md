@@ -1,6 +1,6 @@
 ---
 kind: pc
-description: Alinar summons a spiritual weapon using his Ioun Stone and deals damage with Eldritch Blasts.
+summary: Fallen celestial dual blessed by [[Lathander]] and [[Eilistraee]] with wry wit and a hot head.
 player: Haig
 aliases:
   - Alinar

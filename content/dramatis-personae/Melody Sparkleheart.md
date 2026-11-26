@@ -7,7 +7,7 @@ class:
   - College of Glamour
 affiliations:
   - "[[The Raging Song]]"
-description: Melody Sparkleheart is a talented musician who uses psychic whispers and illusions to support the party.
+summary: A talented musician and master of glamour, her sharp wit is accompanied by a stronger heart.
 aliases:
   - Melody
 tags:

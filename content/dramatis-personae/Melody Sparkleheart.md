@@ -6,7 +6,7 @@ class:
   - Bard
   - College of Glamour
 affiliations:
-  - Party
+  - "[[The Raging Song]]"
 description: Melody Sparkleheart is a talented musician who uses psychic whispers and illusions to support the party.
 aliases:
   - Melody

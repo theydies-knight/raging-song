@@ -6,10 +6,9 @@ aliases:
 tags:
   - Adversary
 affiliations:
-  - "[[Zhentarim]]"
   - "[[Forge of Souls]]"
   - "[[Wave Echo Cave]]"
+  - "[[The Zhentarim]]"
 status:
-  - Deceased
   - Slain
 ---

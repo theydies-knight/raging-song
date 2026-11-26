@@ -9,8 +9,8 @@ aliases:
 class:
   - Druid
 affiliations:
-  - Party
   - "[[The Emerald Enclave]]"
+  - "[[The Raging Song]]"
 status:
   - Living
 ---

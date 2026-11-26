@@ -10,6 +10,8 @@ views:
       - kind
       - aliases
       - tags
+      - status
+      - affiliations
     sort:
       - property: file.name
         direction: ASC

@@ -5,4 +5,6 @@ tags:
   - Ally
 aliases:
   - Harbin
+status:
+  - Living
 ---

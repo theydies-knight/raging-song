@@ -1,6 +1,7 @@
 filters:
   and:
     - file.folder == "Locations"
+    - '!file.name.contains("index")'
 views:
   - type: table
     name: View

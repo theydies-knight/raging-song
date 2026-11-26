@@ -9,6 +9,8 @@ tags:
 class:
   - Warlock
 status: Living
+affiliations:
+  - "[[The Raging Song]]"
 ---
 
 # Alinar

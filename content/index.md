@@ -15,7 +15,7 @@ As shadows stretched over [[Neverwinter Wood]], every member of the crew hit the
 
 All those threads pulled the adventurers into the echoing halls of Wave Echo Cave, where the celestial warlock **[[Alinar Dormitor]]** took center stage. Balancing dry wit and lawyer-grade quips against bursts of celestial fury, Alinar flared with necrotic wings and lightless eyes—blasting horrors with crackling beams of moonlight and sunlight while defying psychic assaults through sheer stubborn grit. 
 
-After locating the legendary [[Forge of Souls]] and prying its mystical brazier from its pedestal to stash inside his _Bag of Holding_, Alinar and the crew cornered [[Nezznar the Spider]] beside the shrine of Dumathoin. With Aeolus smothering the chamber in silence, Melody breaking the drow's guards with debilitating song, Jae delivering a non-lethal cudgel bonk, and Alinar terrifying the mastermind into a full confession, the drow plotter met his end under [[Nundro Rockseeker]]'s vengeful mining pick.
+After locating the legendary [[Forge of Souls]] and prying its mystical brazier from its pedestal to stash inside his _Bag of Holding_, Alinar and the crew cornered [[Nezznar, the Spider]] beside the shrine of Dumathoin. With Aeolus smothering the chamber in silence, Melody breaking the drow's guards with debilitating song, Jae delivering a non-lethal cudgel bonk, and Alinar terrifying the mastermind into a full confession, the drow plotter met his end under [[Nundro Rockseeker]]'s vengeful mining pick.
 
 Yet, as the bloodied heroes gather their loot and step toward the sunlight, their victory in [[Wave Echo Cave]] leaves as many questions as resolutions. Tucked inside Alinar's dimensional pack sits the Forge of Souls.
 

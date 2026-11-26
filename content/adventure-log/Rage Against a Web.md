@@ -3,7 +3,7 @@ date: 2026-11-22
 ---
 ## Summary
 
-The Raging Song cornered [[Nezznar the Spider]] within the cavernous halls of [[Wave Echo Cave]]. The drow mastermind stood flanked by bugbear brutes near a towering dwarven statue. At the feet of the monument lay the bound, motionless form of Nundro Rockseeker. Anticipating combat, Aeolus smothered the center of the hall beneath a dome of magical silence. Combat sparked the moment Jae Paire strode into the chamber, summoning radiant spirits that carved into the surrounding shadows.
+The Raging Song cornered [[Nezznar, the Spider]] within the cavernous halls of [[Wave Echo Cave]]. The drow mastermind stood flanked by bugbear brutes near a towering dwarven statue. At the feet of the monument lay the bound, motionless form of Nundro Rockseeker. Anticipating combat, Aeolus smothered the center of the hall beneath a dome of magical silence. Combat sparked the moment Jae Paire strode into the chamber, summoning radiant spirits that carved into the surrounding shadows.
 
 Nezznar slipped past the silence field and retaliated with dark conjuration, summoning an imposing fiend from across the planes. Alinar reacted without hesitation. He slipped through space with a teleportation spell, lined up his sight, and struck the drow with crackling eldritch beams. The blast hurled Nezznar back into the silence field. The blow shattered Nezznar's concentration, snapping the portal shut and banishing the yugoloth. Aeolus seized the momentum. He cast an incendiary spell to turn Nezznar's spider-topped staff searing hot, forcing the villain to drop the rod. Aeolus flashed forward, snatched the weapon from the floor, and felt phantom arachnids scuttle across his flesh.
 

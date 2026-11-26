@@ -18,7 +18,7 @@ The GM can spend points from their pool to enhance enemy rolls, introduce compli
 During the debrief after each session, the players will have an opportunity to award Loric Inspiration to one Player Character. This permits the character to add a die to any attack roll, skill check, or saving throw. The die value scales similarly to a Bardic Inspiration die. A character may only have a single instance of Loric Inspiration. 
 
 | Levels | Die  |
-| :----: | ---- |
+| :----: | :---: |
 |  1-4   | 1d6  |
 |  5-9   | 1d8  |
 | 10-14  | 1d10 |

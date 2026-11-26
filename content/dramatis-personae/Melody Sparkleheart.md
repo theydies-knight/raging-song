@@ -5,7 +5,7 @@ species: Halfling
 class:
   - Bard
   - College of Glamour
-affiliation:
+affiliations:
   - Party
 description: Melody Sparkleheart is a talented musician who uses psychic whispers and illusions to support the party.
 aliases:

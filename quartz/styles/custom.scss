@@ -13,6 +13,72 @@ html {
     margin: 0 auto;
 }
 
-article > h1 { 
-    border-bottom: 1px solid var(--tertiary);
+article {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--headerFont);
+    font-weight: 400;
+    line-height: 1.2;
+  }
+
+  h1 {
+    font-size: clamp(2rem, 4vw, 2.7rem);
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--secondary);
+  }
+
+  h2 {
+    font-size: 1.7rem;
+    margin-top: 2.5rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid var(--lightgray);
+    color: var(--tertiary);
+  }
+
+  h3 {
+    font-size: 1.3rem;
+    margin-top: 2rem;
+    color: var(--gray);
+  }
+
+  h4,
+  h5,
+  h6 {
+    font-size: 1.1rem;
+    margin-top: 1.75rem;
+  }
+
+  em {
+    color:var(--secondary);
+  }
+
+  p > strong {
+    color: var(--gray);
+    font-weight: 600;
+  }
+}
+
+a {
+    font-weight: 400 !important;
+}
+
+a.internal.broken {
+    color: var(--secondary);
+    opacity: .8;
+    transition: opacity .2s;
+}
+
+a.internal.broken:hover {
+    color: var(--secondary);
+    opacity: 1;
+    transition: opacity .2s;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }

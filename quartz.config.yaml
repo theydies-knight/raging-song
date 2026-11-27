@@ -27,18 +27,18 @@ configuration:
         darkgray: "#59483F"
         dark: "#2B231F"
         secondary: "#7D2938"
-        tertiary: "#75500A"
+        tertiary: "#755822"
         highlight: rgba(125, 41, 56, 0.12)
         textHighlight: "#D5A44588"
       darkMode:
-        light: "#1B1918"
+        light: "#0A0908"
         lightgray: "#302A28"
         gray: "#A99A89"
         darkgray: "#D3C5B6"
         dark: "#F4EBDD"
-        secondary: "#E58B81"
-        tertiary: "#E2BE72"
-        highlight: rgba(226, 190, 114, 0.14)
+        secondary: "#E26954"
+        tertiary: "#DBB259"
+        highlight: rgba(226, 190, 114, 0.22)
         textHighlight: "#C7775688"
   links:
     markdownLinkResolution: shortest
@@ -153,6 +153,10 @@ plugins:
     options:
       folderDefaultState: "collapsed" # Options: "collapsed" | "open"
       useSavedState: true        # Remembers which folders a player expanded
+      title: Wiki
+      sort:
+        - { by: folder, direction: desc }
+        - title      
     layout:
       position: left
       priority: 50

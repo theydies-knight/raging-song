@@ -11,8 +11,9 @@ class:
 status: Living
 affiliations:
   - "[[The Raging Song]]"
+  - "[[Lathander]]"
+  - "[[Eilistraee]]"
 ---
-
 # Alinar
 
 Alinar uses his Ioun Stone to create twin scimitars named Sigfried and Roy. He uses these weapons alongside Eldritch Blasts during combat against the Nothic.

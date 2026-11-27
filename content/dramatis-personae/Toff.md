@@ -6,4 +6,6 @@ tags:
 status:
   - Living
 summary: A friendly, eccentric magic shopkeeper in town who enchants the heroes' armor and sells them helpful potions.
+affiliations:
+  - "[[Phandalin]]"
 ---

@@ -258,11 +258,12 @@ plugins:
       includeAll: false
       includedProperties:
         - description
+        - summary
         - tags
         - aliases
       excludedProperties: []
       hidePropertiesView: false
-      collapsed: true
+      collapsed: false
     order: 5
     layout:
       position: beforeBody

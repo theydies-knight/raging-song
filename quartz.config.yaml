@@ -161,8 +161,12 @@ plugins:
   - source: "@quartz-community/graph"
     enabled: true
     options:
-      repelForce: 0.9
-      depth: 3
+      localGraph:
+        repelForce: 0.9
+        depth: 3
+      globalGraph:
+        repelForce: 0.9
+        depth: 3
     layout:
       position: right
       priority: 10

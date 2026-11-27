@@ -43,7 +43,7 @@ configuration:
   links:
     markdownLinkResolution: shortest
   contentIndex:
-    enableSiteMap: true
+    enableSiteMap: false
     enableRSS: true
 plugins:
   - source: "@quartz-community/created-modified-date"
@@ -151,8 +151,6 @@ plugins:
   - source: "@quartz-community/explorer"
     enabled: true
     options:
-      folderDefaultState: "collapsed" # Options: "collapsed" | "open"
-      useSavedState: true        # Remembers which folders a player expanded
       title: Wiki
       sort:
         - { by: folder, direction: desc }

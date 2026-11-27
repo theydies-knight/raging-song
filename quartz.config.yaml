@@ -261,6 +261,7 @@ plugins:
         - summary
         - tags
         - aliases
+        - affiliations
       excludedProperties: []
       hidePropertiesView: false
       collapsed: false

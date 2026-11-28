@@ -1,7 +1,10 @@
 ---
 title: Adventures of the Raging Song
+image: assets/the-raging-song-wide.webp
 ---
 # The Story So Far...
+
+![[the-raging-song-wide.webp]]
 
 What started as a local borderland scrap with mountain bandits and dragons spiraled into divine heresy and cosmic dread across the Sword Coast. **[[The Raging Song]]** proved their grit on the crags of Icespire Peak by slaying the white dragon [[Cryovain]]—until they pulled silver ichor from the beast's skull, confirming that mind flayer parasites were pulling the strings behind the chaos. 
 
